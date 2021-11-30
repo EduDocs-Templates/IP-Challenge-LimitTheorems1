@@ -1,10 +1,13 @@
 # Machine Problem: Limit Theorems
 
 Instructions and exercises for this machine problem are contained in `challenge.ipynb`.
+Beyond Python programming, there are a few questions that one can answer using empirical evidence.
+Make sure you address these questions.
 
 ### Action Items
 
 * __Modify__ and __Run__: Code in `challenge.ipynb`.
+* __Answer__: Questions in `challenge.ipynb`.
 * __Add__: Updated `challenge.ipynb` to repository.
 * __Commit and Push__: This file to GitHub.
 
